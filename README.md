@@ -3,11 +3,13 @@ Create React App Universal
 
 [![Build Status](https://travis-ci.org/antonybudianto/create-react-app-universal.svg?branch=master)](https://travis-ci.org/antonybudianto/create-react-app-universal)
 
-Based on https://github.com/ayroblu/ssr-create-react-app-v2
+> Based on https://github.com/ayroblu/ssr-create-react-app-v2
 
 > Have **existing** Create React App project?
 > Just copy `./server` folder into your existing CRA and
 > update your `<div id="root"></div>` into `<div id="root">{{SSR}}</div>`  on `public/index.html`
+
+Visit [wiki](https://github.com/antonybudianto/create-react-app-universal/wiki) for documentation
 
 ## Install
 ```bash
