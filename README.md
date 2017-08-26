@@ -6,8 +6,7 @@ Create React App Universal
 > Based on https://github.com/ayroblu/ssr-create-react-app-v2
 
 > Have **existing** Create React App project?
-> Just copy `./server` folder into your existing CRA and
-> update your `<div id="root"></div>` into `<div id="root">{{SSR}}</div>`  on `public/index.html`
+> Just copy `./server` folder into your existing CRA and it's done!
 
 Visit [wiki](https://github.com/antonybudianto/create-react-app-universal/wiki) for documentation
 
