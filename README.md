@@ -5,10 +5,10 @@ Create React App Universal
 
 > Based on https://github.com/ayroblu/ssr-create-react-app-v2
 
-> Have **existing** Create React App project?
-> Just copy `./server` folder into your existing CRA and it's done!
-
 Visit [wiki](https://github.com/antonybudianto/create-react-app-universal/wiki) for documentation
+
+## Not maintained
+Please visit new [CRA Universal CLI](https://github.com/antonybudianto/cra-universal)
 
 ## Install
 ```bash
